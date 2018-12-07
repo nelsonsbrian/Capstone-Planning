@@ -24,15 +24,24 @@ Web app will be a visual and data demostration of machine learning and genetic a
 * Node.js
 
 ## Wishlist Features
-
+1. Have an example using a concept from each area: 
+* Machine Learning
+* Genetic Algorithm
+* Nueral Network
+2. Utilize js library to perform larger and differenct computations
+3. Add user interaction forms and controls
+4. Run multiple testing windows at the same time to display differences.
 
 ## Wishlist Technologies
 * TensorFlow.js
 
 ## Development Notes & Issues
 
-![Screenshot](./src/assets/img/Chart.png)
+![Screenshot](./ComponentDiagram.png)
 
+## Additional Thoughts
+
+A lot of the work will be researching and learning how many of these concepts are done and coded. There are many out of the box libraries that can do these sort of things for me already, but I would like to learn some of the basics before moving into using a library.
 
 ## Contact & Support
 
