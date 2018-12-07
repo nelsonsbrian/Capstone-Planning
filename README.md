@@ -4,6 +4,9 @@
 
 ### By **Brian Nelson**
 
+## Project Link
+https://github.com/nelsonsbrian/Genetics.git
+
 ## Description
 
 Web app will be a visual and data demostration of machine learning and genetic algorithms. A sample group of objects will perform tasks and then the populations will generate new populations to try to perform those same tasks or better. The goal is to have each generation perform better overall.
